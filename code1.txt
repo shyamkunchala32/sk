@@ -1,0 +1,7 @@
+ability to scan external and internal information sources for opportunities and problems and to interpret what the scanning discovers. Web tools and sources are extremely useful for environmental scanning. 
+
+	Decision support/business intelligence technologies can also help. (Automatic) data mining and (manual) online analytic processing support this phase by identifying relationships among activities and other factors. Geographic information systems (GIS) can be utilized either as stand alone or integrated with these systems, so that a decision maker can determine opportunities and problems in a spatial sense. 
+
+	Another aspect of identifying internal problems and opportunities is monitoring operations. Business activity monitoring, business process management and product life-cycle management provide such capability. Routine and ad-hoc reports can also help: regular reports can be designed to assist in problem finding by comparing expectations with current and projected performance.
+
+
