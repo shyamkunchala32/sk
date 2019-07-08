@@ -1,0 +1,6 @@
+newSymbolTextBox.addKeyPressHandler(new KeyDownHandler() {
+  public void onKeyDown(KeyDownEvent event) {
+      System.out.println("foo =" + KeyCodes.KEY_ENTER);
+      System.out.println("bar =" + event.getNativeKeyCode());
+  }
+});
