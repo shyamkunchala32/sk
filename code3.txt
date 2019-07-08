@@ -1,1 +1,12 @@
 first branch
+ewSymbolTextBox.addKeyPressHandler(new KeyPressHandler() {
+  public void onKeyPress(KeyPressEvent event) {
+      System.out.println("foo =" + KeyCodes.KEY_ENTER);
+  System.out.println("bar =" + event.getCharCode());
+  }
+});
+When I press ENTER I get this output:
+
+foo =13
+bar =
+I expected a value after bar =. Any idea?
